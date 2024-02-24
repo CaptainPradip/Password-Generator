@@ -1,6 +1,6 @@
 # Password Generator Application
 Password Generator Application This is a simple password generator application built using React. It allows users to generate random passwords with customizable length and inclusion of numbers and special characters.
-
+![Screenshot]([path/to/your/screenshot.png](https://github.com/CaptainPradip/Password-Generator/blob/main/Screenshot%202024-02-23%20at%208.37.16%E2%80%AFPM.png))
 ## Features
 
 - **Password Generation**: Random passwords are generated based on user-defined length and character sets.
